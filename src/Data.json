@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Ali",
+    "lastname": "Schick",
+    "role": "Developer"
+  },
+  {
+    "firstName": "John",
+    "lastname": "Doe",
+    "role": "Manager"
+  },
+  {
+    "firstName": "Valentina",
+    "lastname": "Olekhnovic",
+    "role": "Developer"
+  },
+  {
+    "firstName": "David",
+    "lastname": "Brown",
+    "role": "Designer"
+  }
+]
